@@ -1,0 +1,6 @@
+{
+  "name": "Event Horizon - Space & Astronomy Odyssey",
+  "description": "An immersive space and astronomy blog, portfolio, and cosmos explorer featuring black holes, galaxies, interactive planetary simulators, and astrophysics academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
